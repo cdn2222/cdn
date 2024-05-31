@@ -1,0 +1,81 @@
+.pd {
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+}
+
+.pp {
+    padding-top: 0.12rem !important;
+    padding-right: 0.12rem !important;
+    padding-bottom: 0.12rem !important;
+    padding-left: 0.12rem !important;
+}
+
+.mg {
+    margin-left: 25px !important;
+    margin-right: 25px !important;
+}
+
+.mgl {
+    margin-left: 25px !important;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+
+}
+
+body {
+    zoom: 75%;
+}
+
+.ignore_class {
+    background-color: #ff000069 !important;
+}
+
+table {
+    --bs-table-bg: transparent !important;
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+
+.style_for_action {
+    user-select: none;
+    font-size: 15px;
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+.modal-backdrop {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+input[type='number'] {
+    -moz-appearance: textfield;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
+td {
+    padding: 0px;
+}
+
+.bclass {
+    user-select: none;
+    cursor: pointer;
+    margin-right: 2px;
+    background-color: #2939b1;
+    padding: 2px;
+}
+
+.sclass {
+    user-select: none;
+    cursor: pointer;
+    margin-right: 2px;
+    background-color: #14553d;
+    padding: 2px;
+}
